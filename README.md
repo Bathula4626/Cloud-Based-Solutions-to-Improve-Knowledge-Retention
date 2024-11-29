@@ -27,7 +27,7 @@ Follow the steps below to set up and run the project locally:
 
 Clone the repository:
 
-git clone https://github.com/your-username/knowledge-management-system.git
+git clone https://github.com/Bathula4626/Cloud-Based-Solutions-to-Improve-Knowledge-Retention.git.
 
 cd knowledge-management-system
 
