@@ -21,7 +21,7 @@ st.markdown("""
 # Sidebar elements (Open by default)
 with st.sidebar:
     # Display the date of the day
-    st.markdown(f"### 📅 Date: {datetime.now().strftime('%Y-%m-%d')}")
+    st.markdown(f"### 📅 Date: {datetime.now().strftime('%m-%d-%y')}")
 
     # Display the current time
     st.markdown(f"### ⏰ Time: {datetime.now().strftime('%H:%M:%S')}")
